@@ -1,0 +1,7 @@
+echo "# hikmet.muxtarovv-" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git filialı -M main 
+git remote add origin https://github.com/Rustem028288333/hikmet.muxtarovv -.git
+ git push -u mənşəli əsas
